@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onyekachi Okoye</h1>
 <h3 align="center">I'm a full stack developer and data scientist with a background in engineering</h3>
-<img align="right" alt="robot" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2019/05/ai-vs.-machine-learning-vs.-deep-learning-whats-the-difference1.png" >
+<img align="right" alt="robot" width="400" src="./images/ai-vs.-machine-learning-vs.-deep-learning-whats-the-difference1.png" >
 
 
 - 🌱 I’m currently learning **TensorFlow**
